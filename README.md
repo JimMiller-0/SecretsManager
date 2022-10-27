@@ -1,0 +1,1 @@
+This repo is to help make secrets manager easier to use for large teams
